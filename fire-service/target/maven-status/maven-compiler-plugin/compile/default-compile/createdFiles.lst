@@ -1,0 +1,4 @@
+com/rushinga/fire/model/FireIncident.class
+com/rushinga/fire/repository/FireRepository.class
+com/rushinga/fire/FireServiceApplication.class
+com/rushinga/fire/controller/FireController.class
